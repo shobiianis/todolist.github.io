@@ -1,0 +1,54 @@
+
+body{
+background-color: aquamarine;
+
+
+}
+.middle{
+    margin-left: 35%;
+}
+
+h1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 35%;
+
+}
+
+input{
+    width: 314px;
+    height: 41px;
+}
+.blkButton{
+    background-color: black;
+    color:white;
+    height: 47px;
+    width: 72px;
+}
+
+p{
+    border: 1px solid gray;
+    border-radius: 2%;
+    box-shadow: 1px 2px grey;
+    background-color: white;
+    width: 390px;
+    height: 60px;
+    line-height:40px;
+    padding-left: 10px;
+}
+
+
+.del{
+    
+    background-color: black;
+    color: grey;
+    
+
+}
+
+.edit{
+    background-color: black;
+    color: grey;
+    top: 9px;
+    width: 48px;
+    margin-left: 10px;
+}
